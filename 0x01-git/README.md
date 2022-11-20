@@ -1,4 +1,3 @@
-0x01-git
-## c
-## js
-## bash
+# 0x01-git
+### c
+### js
